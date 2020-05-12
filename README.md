@@ -50,7 +50,7 @@ For Regression analysis, I used `California housing` dataset from `sklearn.datas
 While training, various Model Checkpoints are implemented using Keras.callbacks to store best model and early stop model of the above sequential approach. <br>
 
 ## INSTALLATIONS
-`jupyter-notebook` `numpy` `pandas` `seaborn` `matplotloib` `Sklearn` `Keras` `Tensorflow`
+`jupyter-notebook` `numpy` `pandas` `seaborn` `matplotlib` `Sklearn` `Keras` `Tensorflow`
 ## ACKNOWLEDGMENTS
 https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6
 https://towardsdatascience.com/introduction-to-artificial-neural-networks-ann-1aea15775ef9
